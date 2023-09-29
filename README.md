@@ -11,4 +11,4 @@ E_VA is an Enterprise Resource Planning system to create a common ground for e-w
 ![Admin Login](https://github.com/Shahir47/E_VA/blob/main/Preview/P3.png)
 
 ##### E-Waste Pickup Request
-![Picup Request](https://github.com/Shahir47/E_VA/blob/main/Preview/P4png)
+![Picup Request](https://github.com/Shahir47/E_VA/blob/main/Preview/P4.png)
